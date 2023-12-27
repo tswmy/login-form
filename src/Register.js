@@ -50,7 +50,7 @@ const Register = () => {
     e.preventDefault();
     let regobj = { id, name, password, email, mobile };
     if (isValidate()) {
-      fetch("http://localhost:8000/user", {
+      fetch("http://localhost:8000/users", {
         method: "POST",
         headers: { "content-type": "application/json" },
         body: JSON.stringify(regobj),
