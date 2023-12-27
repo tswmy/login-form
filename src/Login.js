@@ -16,7 +16,7 @@ function Login() {
     e.preventDefault();
     if (validate()) {
       // console.log("proceed");
-      fetch("http://localhost:8000/user/" + username)
+      fetch("http://localhost:8000/users/" + username)
         .then((res) => {
           return res.json();
         })
