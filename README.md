@@ -28,6 +28,6 @@ How to navigate:
 Steps that need to be completed:
 1. Two options for the user to select a team
 2. After selecting a team, the page should dynamically display questions based on the selected team and features.
-3. Submit your responses and these will be stored in a database
+
 
 Thank you.
