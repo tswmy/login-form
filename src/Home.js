@@ -11,13 +11,17 @@ function Home() {
   }, []);
   return (
     <div>
-      <div className="header">
+      <div className="header bg-secondary">
         <Link to={"/"}>Home</Link>
         <Link style={{ float: "right" }} to={"/login"}>
           Logout
         </Link>
       </div>
-      <h1 className="text-center">Welcome to club</h1>
+      <div className="container text-center mt-5">
+        <Link to={"/questions"}>
+          <button className="btn btn-primary ">Choose your team</button>
+        </Link>
+      </div>
     </div>
   );
 }
