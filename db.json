@@ -1,11 +1,25 @@
 {
-  "user": [
+  "users": [
     {
       "id": "india",
       "name": "india",
       "password": "india",
       "email": "india123@gmail.com",
       "mobile": "8988899995"
+    },
+    {
+      "id": "qwe",
+      "name": "qwe",
+      "password": "qwe",
+      "email": "qwe@gmail.com",
+      "mobile": "7896325412"
+    },
+    {
+      "id": "asd",
+      "name": "asd",
+      "password": "asd",
+      "email": "asd@gmail.com",
+      "mobile": "7896325415"
     }
   ]
 }
