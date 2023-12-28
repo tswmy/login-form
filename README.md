@@ -24,10 +24,8 @@ How to navigate:
 1. At the registration page enter the given inputs and register yourselves as a new user.
 2. After the above step, log in using the already entered username and password.
 3. This will bring you to the home page.
-
-Steps that need to be completed:
-1. Two options for the user to select a team
-2. After selecting a team, the page should dynamically display questions based on the selected team and features.
+4. Two options for the user to select a team
+5. After selecting a team, the page should dynamically display questions based on the selected team and features.
 
 
 Thank you.
