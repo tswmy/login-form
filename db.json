@@ -20,6 +20,7 @@
       "password": "asd",
       "email": "asd@gmail.com",
       "mobile": "7896325415"
+<<<<<<< HEAD
     },
     {
       "id": "tiger",
@@ -27,6 +28,8 @@
       "password": "tiger",
       "email": "tiger@gmail.com",
       "mobile": "7896541235"
+=======
+>>>>>>> ae3047718862f850ebff7d14483d327ded76450d
     }
   ]
 }

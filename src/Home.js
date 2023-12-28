@@ -17,6 +17,11 @@ function Home() {
           Logout
         </Link>
       </div>
+      <div className="container text-center mt-5">
+        <Link to={"/questions"}>
+          <button className="btn btn-primary ">Choose your team</button>
+        </Link>
+      </div>
       <div
         style={{
           backgroundColor: "rgb(21, 52, 98)",
