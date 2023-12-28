@@ -19,7 +19,7 @@ function Home() {
       </div>
       <div className="container text-center mt-5">
         <Link to={"/questions"}>
-          <button className="btn btn-primary ">Choose your team</button>
+          <button className="btn btn-secondary ">Pick your team</button>
         </Link>
       </div>
       <div
@@ -28,13 +28,7 @@ function Home() {
           minHeight: "100vh",
           padding: "20px",
         }}
-      >
-        <div className="container text-center mt-5">
-          <Link to={"/questions"}>
-            <button className="btn btn-secondary">Pick Your Team</button>
-          </Link>
-        </div>
-      </div>
+      ></div>
     </div>
   );
 }
