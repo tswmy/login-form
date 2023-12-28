@@ -50,6 +50,9 @@ app-check {
   height: 20px;
   width: 20px;
 }
+.spacer {
+  flex-grow: 0.25;
+}
 
 @keyframes App-logo-spin {
   from {

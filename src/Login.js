@@ -54,8 +54,11 @@ function Login() {
   };
 
   return (
-    <div className="row">
-      <div className="offset-lg-3 col-lg-6">
+    <div
+      className="background-container-1  row justify-content-center align-items-center vh-100"
+      style={{ backgroundColor: "rgb(79, 160, 149)" }}
+    >
+      <div className="col-lg-6">
         <form onSubmit={proceedLogin} className="container">
           <div className="card">
             <div className="card-header">
@@ -69,7 +72,7 @@ function Login() {
                     value={username}
                     onChange={(e) => usernameUpdate(e.target.value)}
                     className="form-control"
-                  ></input>
+                  />
                 </div>
                 <div className="form-group">
                   <label>
@@ -80,14 +83,14 @@ function Login() {
                     value={password}
                     onChange={(e) => passwordUpdate(e.target.value)}
                     className="form-control"
-                  ></input>
+                  />
                 </div>
               </div>
-              <div className="card-footer">
+              <div className="card-footer d-flex justify-content-between">
                 <button type="submit" className="btn btn-primary">
                   Login
                 </button>{" "}
-                |
+                <span className="spacer"></span>{" "}
                 <Link className="btn btn-success" to={"/register"}>
                   New User
                 </Link>

@@ -52,74 +52,84 @@ function Questions() {
   };
 
   return (
-    <div className="text-center">
-      <h2>Questions</h2>
+    <div style={{ backgroundColor: "rgb(79, 160, 149)", height: "100vh" }}>
+      <div className="text-center">
+        <h2>Questions</h2>
 
-      <button
-        className="btn btn-primary"
-        onClick={() => handleTeamSelection("TeamA")}
-      >
-        Select Team A
-      </button>
-      <button
-        className="btn btn-primary"
-        onClick={() => handleTeamSelection("TeamB")}
-      >
-        Select Team B
-      </button>
+        <button
+          className="btn btn-secondary"
+          onClick={() => handleTeamSelection("TeamA")}
+        >
+          Select Team A
+        </button>
+        <button
+          className="btn btn-secondary"
+          onClick={() => handleTeamSelection("TeamB")}
+        >
+          Select Team B
+        </button>
 
-      {selectedTeam && (
-        <div>
-          <h3>{`Questions for ${selectedTeam}`}</h3>
-          {selectedTeam === "TeamA" && (
-            <div>
-              <p>
-                <input
-                  type="radio"
-                  name="question1"
-                  value="Option1"
-                  onChange={() => handleResponseChange("question1", "Option1")}
-                />
-                Question 1: How are you?
-              </p>
-              <p>
-                <input
-                  type="radio"
-                  name="question1"
-                  value="Option2"
-                  onChange={() => handleResponseChange("question1", "Option2")}
-                />
-                Question 2: What is your Name?
-              </p>
-            </div>
-          )}
-          {selectedTeam === "TeamB" && (
-            <div>
-              <p>
-                <input
-                  type="radio"
-                  name="question2"
-                  value="Option1"
-                  onChange={() => handleResponseChange("question2", "Option1")}
-                />
-                Question 1: How many members are there in your team?
-              </p>
-              <p>
-                <input
-                  type="radio"
-                  name="question2"
-                  value="Option2"
-                  onChange={() => handleResponseChange("question2", "Option2")}
-                />
-                Question 2: Who is the best athlete in your team?
-              </p>
-            </div>
-          )}
-          <button className="btn btn-success" onClick={handleSubmit}>
-            Submit
-          </button>
-        </div>
-      )}
+        {selectedTeam && (
+          <div>
+            <h3>{`Questions for ${selectedTeam}`}</h3>
+            {selectedTeam === "TeamA" && (
+              <div>
+                <p>
+                  <input
+                    type="radio"
+                    name="question1"
+                    value="Option1"
+                    onChange={() =>
+                      handleResponseChange("question1", "Option1")
+                    }
+                  />
+                  Question 1: How are you?
+                </p>
+                <p>
+                  <input
+                    type="radio"
+                    name="question1"
+                    value="Option2"
+                    onChange={() =>
+                      handleResponseChange("question1", "Option2")
+                    }
+                  />
+                  Question 2: What is your Name?
+                </p>
+              </div>
+            )}
+            {selectedTeam === "TeamB" && (
+              <div>
+                <p>
+                  <input
+                    type="radio"
+                    name="question2"
+                    value="Option1"
+                    onChange={() =>
+                      handleResponseChange("question2", "Option1")
+                    }
+                  />
+                  Question 1: How many members are there in your team?
+                </p>
+                <p>
+                  <input
+                    type="radio"
+                    name="question2"
+                    value="Option2"
+                    onChange={() =>
+                      handleResponseChange("question2", "Option2")
+                    }
+                  />
+                  Question 2: Who is the best athlete in your team?
+                </p>
+              </div>
+            )}
+            <button className="btn btn-success" onClick={handleSubmit}>
+              Submit
+            </button>
+          </div>
+        )}
+      </div>
     </div>
   );
 }

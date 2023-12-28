@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
+import "./App.css";
 
 const Register = () => {
   const [id, idChange] = useState("");
@@ -66,11 +67,14 @@ const Register = () => {
   };
 
   return (
-    <div>
-      <div className="offset-lg-3 col-lg-6">
+    <div
+      className=" d-flex justify-content-center align-items-center vh-100"
+      style={{ backgroundColor: "rgb(124, 147, 195)" }}
+    >
+      <div className="col-lg-6">
         <form className="container" onSubmit={handleSubmit}>
           <div className="card">
-            <div className="card-header">
+            <div className="card-header ">
               <h1>Register</h1>
             </div>
             <div className="card-body">
@@ -83,7 +87,7 @@ const Register = () => {
                     <input
                       value={id}
                       onChange={(e) => idChange(e.target.value)}
-                      className="form-control"
+                      className="form-control "
                     ></input>
                   </div>
                 </div>
@@ -140,7 +144,7 @@ const Register = () => {
             </div>
 
             <div className="card-footer">
-              <button type="submit" className="btn btn-primary">
+              <button type="submit" className="btn btn-primary btn-block">
                 Register
               </button>
             </div>

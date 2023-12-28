@@ -20,6 +20,13 @@
       "password": "asd",
       "email": "asd@gmail.com",
       "mobile": "7896325415"
+    },
+    {
+      "id": "tiger",
+      "name": "tiger",
+      "password": "tiger",
+      "email": "tiger@gmail.com",
+      "mobile": "7896541235"
     }
   ]
 }
