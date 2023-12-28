@@ -26,7 +26,7 @@ function Home() {
       >
         <div className="container text-center mt-5">
           <Link to={"/questions"}>
-            <button className="btn btn-secondary">Choose your team</button>
+            <button className="btn btn-secondary">Pick Your Team</button>
           </Link>
         </div>
       </div>

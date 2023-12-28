@@ -60,13 +60,13 @@ function Questions() {
           className="btn btn-secondary"
           onClick={() => handleTeamSelection("TeamA")}
         >
-          Select Team A
+          Team A
         </button>
         <button
           className="btn btn-secondary"
           onClick={() => handleTeamSelection("TeamB")}
         >
-          Select Team B
+          Team B
         </button>
 
         {selectedTeam && (
