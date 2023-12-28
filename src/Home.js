@@ -17,18 +17,19 @@ function Home() {
           Logout
         </Link>
       </div>
-      <div className="container text-center mt-5">
-        <Link to={"/questions"}>
-          <button className="btn btn-secondary ">Pick your team</button>
-        </Link>
-      </div>
       <div
         style={{
-          backgroundColor: "rgb(21, 52, 98)",
+          backgroundColor: "rgb(15, 33, 103)",
           minHeight: "100vh",
           padding: "20px",
         }}
-      ></div>
+      >
+        <div className="container text-center mt-5">
+          <Link to={"/questions"}>
+            <button className="btn btn-secondary">Choose your team</button>
+          </Link>
+        </div>
+      </div>
     </div>
   );
 }
