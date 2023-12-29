@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+Assignment Project
 =======
 Assignment 01: Choosing a team and storing your responses
 
