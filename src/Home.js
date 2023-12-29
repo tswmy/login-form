@@ -12,9 +12,11 @@ function Home() {
   return (
     <div>
       <div className="header bg-info">
-        <Link to={"/"}>Home</Link>
+        <Link to={"/"}>
+          <button className="btn btn-primary">Home</button>
+        </Link>
         <Link style={{ float: "right" }} to={"/login"}>
-          Logout
+          <button className="btn btn-primary"> Logout</button>
         </Link>
       </div>
       <div

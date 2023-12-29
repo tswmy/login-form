@@ -56,18 +56,21 @@ function Questions() {
       <div className="text-center">
         <h2>Questions</h2>
 
-        <button
-          className="btn btn-secondary"
-          onClick={() => handleTeamSelection("TeamA")}
-        >
-          Team A
-        </button>
-        <button
-          className="btn btn-secondary"
-          onClick={() => handleTeamSelection("TeamB")}
-        >
-          Team B
-        </button>
+        <div>
+          <button
+            className="btn btn-secondary "
+            onClick={() => handleTeamSelection("TeamA")}
+          >
+            Team A
+          </button>{" "}
+          |
+          <button
+            className="btn btn-secondary "
+            onClick={() => handleTeamSelection("TeamB")}
+          >
+            Team B
+          </button>
+        </div>
 
         {selectedTeam && (
           <div>
