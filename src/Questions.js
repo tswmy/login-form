@@ -28,7 +28,7 @@ function Questions() {
     console.log("Responses:", responses);
 
     fetch(`http://localhost:8000/users/${userId}`, {
-      method: "POST",
+      method: "PUT",
       headers: {
         "Content-Type": "application/json",
       },
