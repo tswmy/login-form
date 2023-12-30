@@ -6,7 +6,7 @@ Overview:
 This project involves users registering, logging in, and submitting their responses (choosing a team) which will be stored in a database.
 
 Languages used:
-In this project, we used several front-end development languages like HTML, CSS, JAVASCRIPT, and REACT.
+In this project, we used several front-end development languages like HTML, CSS, JAVASCRIPT, and REACT. And styles were applied using the Bootstrap framework.
 
 Challenges faced:
 while developing encountered problems relating to the installation and running of json server, we used to run the project sometimes without at first running json server. We learned a lesson on how to run a project without any glitches.
