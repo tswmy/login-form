@@ -2,44 +2,88 @@
 
 ## Elevate Your Experience: Choose Your Team and Securely Store Your Responses!
 
-### Overview:
+## Overview:
 Our project encompasses a comprehensive user management system, facilitating user registration, login, and submission of responses—specifically, the selection of a team. These responses are systematically stored within a secure, locally hosted database.
 
-#### Languages used:
+## Key Features
+
+- User Registration:
+
+Seamless user registration process.
+Capture essential user details for personalized experiences.
+Authentication and Login:
+
+Robust authentication mechanisms to safeguard user credentials.
+Secure login process for user verification.
+Response Submission:
+
+Intuitive interface for users to submit responses.
+Specific functionality for selecting a team.
+Database Management:
+
+Comprehensive locally hosted database.
+Structured schema for efficient data storage.
+Security Measures:
+
+Password encryption and salting for enhanced security.
+Server-side validation to ensure data integrity.
+User Interface Design:
+
+Responsive and user-friendly design.
+Intuitive forms for registration and response submission.
+Logging and Monitoring:
+
+Comprehensive logging for critical events and errors.
+Real-time monitoring of system performance.
+Documentation and Testing:
+
+Clear code comments for readability.
+Rigorous testing with unit and integration tests.
+Deployment Strategy:
+
+Environment variable configuration for flexibility.
+Automated deployment for a smooth workflow.
+Additional Commands:
+
+Command instructions for running tests.
+Building the project for production deployment.
+Prerequisites:
+
+Clearly mention prerequisites such as Node.js, npm, and Git.
+Contribution Guidelines:
+
+Guidance for contributors on how to submit contributions.
+Code of conduct and expectations for contributors.
+License Information:
+
+Mention the license under which the project is released.
+
+## Languages used:
 1. HTML
 2. CSS
 3. JAVASCRIPT
 
-#### Library
+## Library
 1. REACT JS
 
-##### Installation and Execution Guide:
+## Installation and Execution Guide:
 
 Follow these steps to seamlessly install and run the project on your local environment:
 
-##### Prerequisites:
+## Prerequisites:
 1. Node.js and npm
 2. Git
 
-##### Installation:
+## Installation:
 Run the following commands in the command prompt
 
 
 ![Screenshot (199)](https://github.com/tswmy/login-form/assets/146413390/22f1379a-8db1-41c9-a839-6b7d7eb10fe9)
 
 
-The project will be accessible at http://localhost:8001.
+The project will be accessible at http://localhost:8000.
 
 
-1. Download the zip file
-2. Extract it
-3. Open the Folder in code editor(VS code)
-4. Open the command prompt
-5. Move to the project directory (type cd login-form)
-6. Install the latest version of the node
-7. Type npm run start at the server
-8. Open another command prompt and type json-server --watch db.json --port 8000
-9. This will open a new window in your browser, where you can enter the credentials
 
 How to navigate:
 1. At the registration page enter the given inputs and register yourselves as a new user.
