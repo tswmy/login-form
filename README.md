@@ -40,15 +40,21 @@ Run the following commands in the command prompt
 
 The project will be accessible at http://localhost:8000.
 
+## Getting Started:
+1. User Registration:
+Access the registration page and enter the required information to successfully register as a new user.
 
+2. Login:
+Log in using the provided username and password credentials entered during the registration process.
 
-How to navigate:
-1. At the registration page enter the given inputs and register yourselves as a new user.
-2. After the above step, log in using the already entered username and password.
-3. This will bring you to the home page.
-4. Two options for the user to select a team
-5. After selecting a team, the page should dynamically display questions based on the selected team and features.
+3. Home Page:
+Upon successful login, you will be redirected to the home page.
 
+4. Team Selection:
+Choose from two available teams.
 
-Thank you.
->>>>>>> ae3047718862f850ebff7d14483d327ded76450d
+5. Dynamic Question Display:
+After selecting a team, the page will dynamically present questions tailored to the chosen team, showcasing its specific features.
+
+6. Completion:
+Congratulations! You are now successfully registered, logged in, and engaged with the selected team's content.
