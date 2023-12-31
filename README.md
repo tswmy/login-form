@@ -88,9 +88,9 @@ Explore the visual highlights of our application through the following screensho
 ## Credits
 
 This software uses the following open source packages:
-- https://getbootstrap.com/
--
--
+- [Bootstrap](https://getbootstrap.com)
+- https://colorhunt.co/
+- 
 
 
 
