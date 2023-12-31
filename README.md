@@ -22,10 +22,8 @@ Follow these steps to seamlessly install and run the project on your local envir
 2. Git
 
 ##### Installation:
-1. Clone the Repository: Open your terminal and run the following command to clone the project repository:
-   git clone <repository-url>
-
-    
+Run the following commands in command prompt
+![Screenshot (199)](https://github.com/tswmy/login-form/assets/146413390/22f1379a-8db1-41c9-a839-6b7d7eb10fe9)
 
 
 1. Download the zip file
