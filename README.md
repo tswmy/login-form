@@ -85,6 +85,14 @@ Explore the visual highlights of our application through the following screensho
 
 ![Screenshot (205)](https://github.com/tswmy/login-form/assets/146413390/8bee7f1f-bdcf-4849-a298-d7fde0092f78)
 
+## Credits
+
+This software uses the following open source packages:
+- https://getbootstrap.com/
+-
+-
+
+
 
 
 
