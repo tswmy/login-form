@@ -28,6 +28,9 @@ Run the following commands in the command prompt
 ![Screenshot (199)](https://github.com/tswmy/login-form/assets/146413390/22f1379a-8db1-41c9-a839-6b7d7eb10fe9)
 
 
+The project will be accessible at http://localhost:8001.
+
+
 1. Download the zip file
 2. Extract it
 3. Open the Folder in code editor(VS code)
