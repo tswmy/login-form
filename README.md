@@ -65,25 +65,25 @@ Explore the visual highlights of our application through the following screensho
 
 1. Registration Page:
 
-![Screenshot (200)](https://github.com/tswmy/login-form/assets/146413390/852e7ad1-b598-44dd-a333-e552626c6d8b)
+![Screenshot (200)](https://github.com/tswmy/login-form/assets/146413390/82971628-19c5-4a8d-a37b-e5b7ee6b9ff6)
 
 2. Login Page:
 
-![Screenshot (201)](https://github.com/tswmy/login-form/assets/146413390/10c3d794-65d7-484c-84b4-a8656d9cbc48)
+![Screenshot (201)](https://github.com/tswmy/login-form/assets/146413390/a62b40b8-ef32-459c-a7f5-e82b3f761f10)
 
 3. Home Page:
 
-![Screenshot (202)](https://github.com/tswmy/login-form/assets/146413390/0b6cee62-b4a5-4a97-b86a-ded942a6ad2b)
+![Screenshot (202)](https://github.com/tswmy/login-form/assets/146413390/d9bf7ed3-dcdd-40eb-b30a-6ac1dea7cbad)
 
 4. Team Selection:
 
-![Screenshot (203)](https://github.com/tswmy/login-form/assets/146413390/38742788-02d6-43fb-bd20-413366bd8667)
+![Screenshot (203)](https://github.com/tswmy/login-form/assets/146413390/d9df12a9-7bea-4bff-a360-d383f0e57e69)
 
 5. Dynamic Questions Display:
 
-![Screenshot (204)](https://github.com/tswmy/login-form/assets/146413390/db090a7b-6ba3-4b0d-89d8-6213fdd8850e)
+![Screenshot (204)](https://github.com/tswmy/login-form/assets/146413390/ed1d5db1-d076-43f7-ae2a-decbcfdc8239)
 
-![Screenshot (205)](https://github.com/tswmy/login-form/assets/146413390/03da4656-0bf8-4f3d-8e96-02d1cf2c0ca9)
+![Screenshot (205)](https://github.com/tswmy/login-form/assets/146413390/8bee7f1f-bdcf-4849-a298-d7fde0092f78)
 
 
 
