@@ -87,10 +87,12 @@ Explore the visual highlights of our application through the following screensho
 
 ## Credits
 
-This software uses the following open source packages:
+This software uses the following open-source packages:
 - [Bootstrap](https://getbootstrap.com)
-- https://colorhunt.co/
-- 
+- [Color Hunt](https://colorhunt.co)
+- [react-toastify](https://www.npmjs.com/package/react-toastify)
+- [Node.js](https://nodejs.org/en)
+- [React](https://react.dev/)
 
 
 
