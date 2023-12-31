@@ -1,12 +1,19 @@
-Assignment Project
+# Assignment Project
 =======
-# Assignment: Choosing a team and storing your responses
+## Assignment: Choosing a team and storing your responses
 
-Overview:
-This project involves users registering, logging in, and submitting their responses (choosing a team) which will be stored in a database.
+## Overview:
+This project involves users registering, logging in, and submitting their responses (choosing a team) which will be stored in a local database.
 
-Languages used:
-In this project, we used several front-end development languages like HTML, CSS, JAVASCRIPT, and REACT. And styles were applied using the Bootstrap framework.
+### Languages used:
+1. HTML
+2. CSS
+3. JAVASCRIPT
+
+#### lIBRARY
+1. REACT JS
+
+
 
 Challenges faced:
 while developing encountered problems relating to the installation and running of json server, we used to run the project sometimes without at first running json server. We learned a lesson on how to run a project without any glitches.
