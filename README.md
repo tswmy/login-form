@@ -22,7 +22,9 @@ Follow these steps to seamlessly install and run the project on your local envir
 2. Git
 
 ##### Installation:
-Run the following commands in command prompt
+Run the following commands in the command prompt
+
+
 ![Screenshot (199)](https://github.com/tswmy/login-form/assets/146413390/22f1379a-8db1-41c9-a839-6b7d7eb10fe9)
 
 
