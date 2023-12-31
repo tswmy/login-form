@@ -58,3 +58,34 @@ After selecting a team, the page will dynamically present questions tailored to 
 
 6. Completion:
 Congratulations! You are now successfully registered, logged in, and engaged with the selected team's content.
+
+## Screenshots:
+Screenshots:
+Explore the visual highlights of our application through the following screenshots:
+
+1. Registration Page:
+
+![Screenshot (200)](https://github.com/tswmy/login-form/assets/146413390/852e7ad1-b598-44dd-a333-e552626c6d8b)
+
+2. Login Page:
+
+![Screenshot (201)](https://github.com/tswmy/login-form/assets/146413390/10c3d794-65d7-484c-84b4-a8656d9cbc48)
+
+3. Home Page:
+
+![Screenshot (202)](https://github.com/tswmy/login-form/assets/146413390/0b6cee62-b4a5-4a97-b86a-ded942a6ad2b)
+
+4. Team Selection:
+
+![Screenshot (203)](https://github.com/tswmy/login-form/assets/146413390/38742788-02d6-43fb-bd20-413366bd8667)
+
+5. Dynamic Questions Display:
+
+![Screenshot (204)](https://github.com/tswmy/login-form/assets/146413390/db090a7b-6ba3-4b0d-89d8-6213fdd8850e)
+
+![Screenshot (205)](https://github.com/tswmy/login-form/assets/146413390/03da4656-0bf8-4f3d-8e96-02d1cf2c0ca9)
+
+
+
+
+
