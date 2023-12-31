@@ -1,5 +1,5 @@
 # Assignment Project
-=======
+
 ## Assignment: Choosing a team and storing your responses
 
 ## Overview:
