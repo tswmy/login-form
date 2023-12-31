@@ -18,6 +18,13 @@ Our project encompasses a comprehensive user management system, facilitating use
 Follow these steps to seamlessly install and run the project on your local environment:
 
 ##### Prerequisites:
+1. Node.js and npm
+2. Git
+
+##### Installation:
+1. Clone the Repository: Open your terminal and run the following command to clone the project repository.
+  ![Screenshot (193)](https://github.com/tswmy/login-form/assets/146413390/6dcd68a8-96c5-44d4-8c46-33919f3c3037)
+   Replace <repository-url> with http://gitHub.com/tswmy/login-form
 
 
 1. Download the zip file
