@@ -10,7 +10,7 @@ Our project encompasses a comprehensive user management system, facilitating use
 2. CSS
 3. JAVASCRIPT
 
-#### lIBRARY
+#### Library
 1. REACT JS
 
 
