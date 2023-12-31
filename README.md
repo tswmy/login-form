@@ -3,7 +3,7 @@
 ## Assignment: Choosing a team and storing your responses
 
 ## Overview:
-This project involves users registering, logging in, and submitting their responses (choosing a team) which will be stored in a local database.
+Our project encompasses a comprehensive user management system, facilitating user registration, login, and submission of responses—specifically, the selection of a team. These responses are systematically stored within a secure, locally hosted database.
 
 ### Languages used:
 1. HTML
