@@ -2,10 +2,10 @@
 
 ## Elevate Your Experience: Choose Your Team and Securely Store Your Responses!
 
-## Overview:
+### Overview:
 Our project encompasses a comprehensive user management system, facilitating user registration, login, and submission of responses—specifically, the selection of a team. These responses are systematically stored within a secure, locally hosted database.
 
-### Languages used:
+#### Languages used:
 1. HTML
 2. CSS
 3. JAVASCRIPT
