@@ -1,6 +1,6 @@
 Assignment Project
 =======
-Assignment 01: Choosing a team and storing your responses
+# Assignment: Choosing a team and storing your responses
 
 Overview:
 This project involves users registering, logging in, and submitting their responses (choosing a team) which will be stored in a database.
