@@ -1,6 +1,6 @@
 # Assignment Project
 
-## Assignment: Choosing a team and storing your responses
+## Choosing a team and storing your responses
 
 ## Overview:
 Our project encompasses a comprehensive user management system, facilitating user registration, login, and submission of responses—specifically, the selection of a team. These responses are systematically stored within a secure, locally hosted database.
