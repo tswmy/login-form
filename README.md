@@ -7,56 +7,13 @@ Our project encompasses a comprehensive user management system, facilitating use
 
 ## Key Features
 
-- User Registration:
-
-Seamless user registration process.
-Capture essential user details for personalized experiences.
-Authentication and Login:
-
-Robust authentication mechanisms to safeguard user credentials.
-Secure login process for user verification.
-Response Submission:
-
-Intuitive interface for users to submit responses.
-Specific functionality for selecting a team.
-Database Management:
-
-Comprehensive locally hosted database.
-Structured schema for efficient data storage.
-Security Measures:
-
-Password encryption and salting for enhanced security.
-Server-side validation to ensure data integrity.
-User Interface Design:
-
-Responsive and user-friendly design.
-Intuitive forms for registration and response submission.
-Logging and Monitoring:
-
-Comprehensive logging for critical events and errors.
-Real-time monitoring of system performance.
-Documentation and Testing:
-
-Clear code comments for readability.
-Rigorous testing with unit and integration tests.
-Deployment Strategy:
-
-Environment variable configuration for flexibility.
-Automated deployment for a smooth workflow.
-Additional Commands:
-
-Command instructions for running tests.
-Building the project for production deployment.
-Prerequisites:
-
-Clearly mention prerequisites such as Node.js, npm, and Git.
-Contribution Guidelines:
-
-Guidance for contributors on how to submit contributions.
-Code of conduct and expectations for contributors.
-License Information:
-
-Mention the license under which the project is released.
+- User Registration
+- Authentication and Login
+- Response Submission
+- Database Management
+- Security Measures
+- User Interface Design
+- Logging and Monitoring
 
 ## Languages used:
 1. HTML
