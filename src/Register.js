@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { toast } from "react-toastify";
 import "./App.css";
 
 const Register = () => {
@@ -36,12 +35,12 @@ const Register = () => {
       errorMessage += " Mobile Number";
     }
     if (!isProceed) {
-      toast.warning(errorMessage);
+      window.alert(errorMessage);
     } else {
       if (/^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$/.test(email)) {
       } else {
         isProceed = false;
-        toast.warning("Please enter the valid email");
+        window.alert("Please enter the valid email");
       }
     }
     return isProceed;
@@ -57,11 +56,11 @@ const Register = () => {
         body: JSON.stringify(regobj),
       })
         .then((res) => {
-          toast.success("Registered Successfully");
+          window.alert("Registered Successfully");
           navigate("/login");
         })
         .catch((err) => {
-          toast.error("Failed :" + err.message);
+          window.alert("Failed :" + err.message);
         });
     }
   };

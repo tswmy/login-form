@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { toast } from "react-toastify";
 
 function Login() {
   const [username, usernameUpdate] = useState("");
@@ -22,19 +21,22 @@ function Login() {
         })
         .then((resp) => {
           if (Object.keys(resp).length === 0) {
-            toast.error("Please Enter valid username");
+            window.alert("Please Enter valid username");
           } else {
             if (resp.password === password) {
-              toast.success("Success");
-              sessionStorage.setItem("username", username);
-              usenavigate("/");
+              window.alert("Success");
+
+              setTimeout(() => {
+                sessionStorage.setItem("username", username);
+                usenavigate("/");
+              }, 1000);
             } else {
-              toast.error("Please Enter valid credentials");
+              window.alert("Please Enter valid credentials");
             }
           }
         })
         .catch((err) => {
-          toast.error("Login Failed due to:" + err.message);
+          window.alert("Login Failed due to:" + err.message);
         });
     }
   };
@@ -43,11 +45,11 @@ function Login() {
     let result = true;
     if (username === "" || username === null) {
       result = false;
-      toast.warning("Please Enter Username");
+      window.alert("Please Enter Username");
     }
     if (password === "" || password === null) {
       result = false;
-      toast.warning("Please Enter Password");
+      window.alert("Please Enter Password");
     }
     return result;
   };
