@@ -90,7 +90,6 @@ Explore the visual highlights of our application through the following screensho
 This software uses the following open-source packages:
 - [Bootstrap](https://getbootstrap.com)
 - [Color Hunt](https://colorhunt.co)
-- [react-toastify](https://www.npmjs.com/package/react-toastify)
 - [Node.js](https://nodejs.org/en)
 - [React](https://react.dev/)
 
